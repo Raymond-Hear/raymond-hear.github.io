@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raymond-hear.github.io/</id>
     <title>聆风的Blog</title>
-    <updated>2021-02-18T00:39:14.761Z</updated>
+    <updated>2021-02-18T00:50:13.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://raymond-hear.github.io/"/>
     <link rel="self" href="https://raymond-hear.github.io/atom.xml"/>
@@ -10,4 +10,44 @@
     <logo>https://raymond-hear.github.io/images/avatar.png</logo>
     <icon>https://raymond-hear.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 聆风的Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://raymond-hear.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://raymond-hear.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2021-02-18T00:49:15.000Z</updated>
+        <content type="html"><![CDATA[<p>Ready to get started? Build your own site from scratch or generate one for your project.<br>
+You get one site per GitHub account and organization,<br>
+and unlimited project sites. Let‘s get started.<br>
+User or organization site Project site<br>
+Create a repository<br>
+Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.</p>
+<p>If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.</p>
+<p>What git client are you using?<br>
+A terminal GitHub Desktop I don't know<br>
+Clone the repository<br>
+Go to the folder where you want to store your project, and clone the new repository:</p>
+<p>git clone https://github.com/username/username.github.io</p>
+<p>Hello World<br>
+Enter the project folder and add an index.html file:</p>
+<p>cd username.github.io</p>
+<p>echo &quot;Hello World&quot; &gt; index.html</p>
+<p>Push it<br>
+Add, commit, and push your changes:</p>
+<p>git add --all</p>
+<p>git commit -m &quot;Initial commit&quot;</p>
+<p>git push -u origin main</p>
+<p>…and you're done!<br>
+Fire up a browser and go to https://username.github.io.</p>
+<p>Now that you’re up and running, here are a few things you should know.<br>
+Blogging with Jekyll<br>
+Using Jekyll, you can blog using beautiful Markdown syntax, and without having to deal with any databases. Learn how to set up Jekyll.</p>
+<p>Custom URLs<br>
+Want to use your own custom domain for a GitHub Pages site? Just create a file named CNAME and include your URL. Read more.</p>
+<p>Guides<br>
+Learn how to create custom 404 pages, use submodules, and learn more about GitHub Pages.</p>
+<p>Status API Training Shop Blog About<br>
+© 2021 GitHub, Inc. Terms Privacy Security Contact</p>
+]]></content>
+    </entry>
 </feed>
