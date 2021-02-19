@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://raymond-hear.github.io</id>
+    <id>https://raymond-hear.github.io/</id>
     <title>聆风的Blog</title>
-    <updated>2021-02-19T00:48:51.912Z</updated>
+    <updated>2021-02-19T00:50:28.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://raymond-hear.github.io"/>
+    <link rel="alternate" href="https://raymond-hear.github.io/"/>
     <link rel="self" href="https://raymond-hear.github.io/atom.xml"/>
     <subtitle>记录聆风的编程和PPT设计学习心得</subtitle>
     <logo>https://raymond-hear.github.io/images/avatar.png</logo>
@@ -24,7 +24,7 @@ Create a repository<br>
 Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.</p>
 <p>If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.</p>
 <p>What git client are you using?<br>
-A terminal GitHub Desktop I don't know<img src="https://raymond-hear.github.io/post-images/1613662123823.jpg" alt="" loading="lazy"><br>
+A terminal GitHub Desktop I don't know<img src="https://raymond-hear.github.io//post-images/1613662123823.jpg" alt="" loading="lazy"><br>
 Clone the repository<br>
 Go to the folder where you want to store your project, and clone the new repository:</p>
 <p>git clone https://github.com/username/username.github.io</p>
